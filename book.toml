@@ -1,0 +1,5 @@
+[book]
+authors = ["Tom Lingham"]
+language = "en"
+src = "src"
+title = "Silicon Melbourne"
