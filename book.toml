@@ -3,3 +3,6 @@ authors = ["Tom Lingham"]
 language = "en"
 src = "src"
 title = "Silicon Melbourne"
+
+[output.html]
+hash-files = true

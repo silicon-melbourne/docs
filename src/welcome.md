@@ -1,7 +1,7 @@
 # Welcome
 
 <p align="center">
-  <image src="./assets/silicon-melbourne-logo.png" width="200" />
+  <image src="./assets/logo.png" width="128" />
 </p>
 
 ### Welcome to the Silicon Melbourne Documentation.
