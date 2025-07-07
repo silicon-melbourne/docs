@@ -2,7 +2,7 @@
 
 Our mission is to build a vibrant, connected, and resilient Melbourne Technology community.
 
-We'll do that by enabling low-friction, low-cost connection free of corporate interests, and give back to the community in a manner that supports those in it.
+We'll do that by enabling low-friction connection free of corporate interests, and give back to the community in a manner that supports those in it.
 
 ## Principles
 
