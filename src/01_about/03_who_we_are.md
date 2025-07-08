@@ -1,6 +1,8 @@
 # Who we are
 
-At this time Silicon Melbourne is just [Tom Lingham](https://tomlingham.com/).
+At this time Silicon Melbourne is officially just [Tom Lingham](https://tomlingham.com/), but I'm looking for additional members to assist with leading and executing on a broader community vision.
+
+Others that have helped in some capacity with Silicon Melbourne are recognised on our [Supporters](./04_supporters.md) page.
 
 Currently this is a labour of love that I dedicate as much time as I can to (probably less than it needs) therefore I am always looking for others to help and pitch in.
 

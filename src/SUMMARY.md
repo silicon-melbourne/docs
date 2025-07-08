@@ -3,6 +3,7 @@
 - [About](./01_about/01_chapter.md)
   - [Mission & Principles](./01_about/02_mission_and_principles.md)
   - [Who we are](./01_about/03_who_we_are.md)
+  - [Supporters](./01_about/04_supporters.md)
   - [Rules]()
 
 - [Operations](./02_operations/01_chapter.md)
