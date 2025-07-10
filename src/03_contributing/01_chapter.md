@@ -1,4 +1,4 @@
-# Getting Starting
+# Contributing
 
 If you'd like to support or get involved with Silicon Melbourne, that project is a great place to start. There is usually always a mix of technical or non-technical items there that are tagged with `help wanted`. Keep in mind that not everything will be represented there. If you see an opportunity and would like to do something with it, call it out.
 

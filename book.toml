@@ -3,6 +3,17 @@ authors = ["Tom Lingham"]
 language = "en"
 src = "src"
 title = "Silicon Melbourne"
+description = "Documentation for the Silicon Melbourne community"
 
 [output.html]
 hash-files = true
+additional-css = ["./mdbook-admonish.css"]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+max-level = 2
