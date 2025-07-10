@@ -1,7 +1,27 @@
-# Supporters
+# Community Roles
 
-- [Clare Radtke](https://www.linkedin.com/in/clareradtke/) — For supporting us as a moderator in the Community Discord
+Our community is only possible with the help of the people in it. We are always seeking volunteers aligned to the community vision to fill a number of roles.
 
-## Other mentions
+## Moderators
 
-- [Rhinda](https://x.com/rhindaxu) — For making the [banner image](https://unsplash.com/photos/cityscape-near-canal-with-outdoor-lamps-under-night-sky-09eoscPYdHU) used across our social media available on Unsplash
+**Estimated Commitment:** 1-3 hours per/week
+
+- [Clare Radtke](https://www.linkedin.com/in/clareradtke/) - @clareradtke on Discord
+
+## Domain Advocates
+
+These individuals advocate for the unique social and cultural needs of their area of expertise, ensuring that Silicon Melbourne is catering appropriately for their domain. They will provide advice to community owners on how to configure discord, promote Silicon Melbourne, and how best to provide continued support to their domain as the community grows.
+
+**Estimated Commitment:** 1-2 hours per/month
+
+- **Analysis**: *Open*
+- **Architecture**: *Open*
+- **Cloud & Operations**: *Open*
+- **Data**: *Open*
+- **Design**: *Open*
+- **Education**: *Open*
+- **Engineering**: [Tom Lingham](https://tomlingham.com)
+- **ITSM**: *Open*
+- **Product**: *Open*
+- **Recruitment**: *Open*
+- **Security**: *Open*

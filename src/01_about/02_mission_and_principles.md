@@ -24,6 +24,6 @@ All financial contributions, including donations and sponsorships will be docume
 
 We prioritise genuine interaction and conversation. Appropriate moderation is critical to upholding community principles, elevating the conversation, and creating a welcoming space for everyone in technology. We strive to make moderation transparent where possible and practical.
 
-### Inclusivity
+### Inclusive
 
-We welcome all people that align themselves with the Technology industry in Melbourne and Victoria, Australia. Most bans are temporary and we'd rather coach individuals on how to engage in the community than to have them leave entirely.
+We welcome all people that align themselves with the Technology industry in Melbourne and Victoria, Australia. Most bans are temporary and we'd rather coach individuals on how to engage in the community rather than have them leave entirely.
