@@ -13,8 +13,7 @@
   - [Governance]()
   - [Moderation Team](./02_operations/04_moderation_team.md)
 
-# Get Involved
-
 - [Contributing](./03_contributing/01_chapter.md)
   - [Sponsorships](./03_contributing/02_sponsorships.md)
   - [Volunteering](./03_contributing/03_volunteering.md)
+  - [Resources](./03_contributing/04_resources.md)
