@@ -15,12 +15,13 @@ For detailed information about each role and their responsibilities, along with 
 
 ### Domain Advocates
 
-- **Domain Advocate - Analysis**: *Open*
+- **Domain Advocate - Analysis**: [Igor Arkhipov](https://www.linkedin.com/in/igarkhipov/)
 - **Domain Advocate - Architecture**: *Open*
 - **Domain Advocate - Cloud & Operations**: *Open*
 - **Domain Advocate - Data**: *Open*
 - **Domain Advocate - Design**: *Open*
 - **Domain Advocate - Education**: *Open*
+- **Domain Advocate - Embedded**: [Jesse Bud](https://www.linkedin.com/in/jesse-bud-240471251/)
 - **Domain Advocate - Engineering**: [Tom Lingham](https://tomlingham.com) (temporary)
 - **Domain Advocate - ITSM**: *Open*
 - **Domain Advocate - Product**: *Open*
