@@ -35,7 +35,7 @@ Silicon Melbourne is built using multiple interconnected resources and repositor
 
 ## Contributing to Resources
 
-All Silicon Melbourne resources are open source and contributions are welcome. Each repository contains its own contributing guidelines and setup instructions. For general contribution guidance, see the [main contributing guide](./01_chapter.md).
+All Silicon Melbourne resources are open source and contributions are welcome. Each repository contains its own contributing guidelines and setup instructions. For general contribution guidance, see the [main contributing guide](./01_chapter.md) or the respective repositories README.md (they all need work—don't be surprised to find limited information).
 
 ## Development Coordination
 
