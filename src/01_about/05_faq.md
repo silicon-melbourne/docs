@@ -47,3 +47,14 @@ Anonymous users should be aware that:
 - We may introduce additional restrictions for anonymous users in the future if we find it difficult to appropriately moderate them (though we will try not to)
 
 If you choose to participate anonymously, please be mindful that moderation decisions may be made more quickly and with less consideration than for identified members.
+
+## Why Discord?
+
+Very few community platforms can support large communities at little to no cost. Self-hosting alternatives would create significant barriers to entry that many potential members would struggle to overcome. Discord offers:
+
+- A number of tech professionals already have Discord accounts or can easily create one
+- Free for communities of our size with all necessary features
+- Role management and other mature moderation tools (including a robust and comprehensive API)
+- Works well on both mobile and desktop
+
+While Discord has its limitations, it allows us to focus our energy on building community rather than managing technical infrastructure. We'll continue to leave the door open to whether Discord serves the communities needs as we continue to grow.
