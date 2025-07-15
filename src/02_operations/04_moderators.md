@@ -2,6 +2,8 @@
 
 The Silicon Melbourne moderation team plays a crucial role in maintaining the quality and integrity of our community. Being a moderator is a privilege that comes with both additional responsibilities and administrative capabilities.
 
+See our [current moderator team](../01_about/04_volunteers.md#moderators)
+
 ## Moderator Responsibilities
 
 Moderators are held to a higher standard than regular community members. They serve as role models and community leaders, actively shaping the culture and tone of Silicon Melbourne. This position is earned through consistent positive contribution to the community and is not a right to be assumed.
