@@ -5,7 +5,7 @@ Our mission is to build a vibrant, connected, and resilient Melbourne technology
 The following are the principles by which we operate Silicon Melbourne:
 
 **Community owned:**
-Silicon Melbourne is built by and for it's community members. We favour transparency, community-mindedness, and are guided by what genuinely benefits our members. See our [contributing guide](../04_contributing/01_getting_started.md) to see how you can get involved to influence, build, and support the community.
+Silicon Melbourne is built by and for it's community members. We favour transparency, community-mindedness, and are guided by what genuinely benefits our members. See our [contributing guide](../03_contributing/01_chapter.md) to see how you can get involved to influence, build, and support the community.
 
 **Authentic:**
 We value every member, regardless of how actively they participate. Rather than chasing engagement metrics, we aim to create a space that is valuable to both those actively engaging and those simply observing.
