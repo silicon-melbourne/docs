@@ -2,7 +2,7 @@
 
 Our community is only made possible with the help of our volunteers. We are always on the lookout for people aligned with the community vision to fill a number of important roles.
 
-For detailed information about each role and their responsibilities, along with information on how you can participate, see our [Volunteering](../04_contributing/03_volunteering.md) page.
+For detailed information about each role and their responsibilities, along with information on how you can participate, see our [Volunteering](../03_contributing/03_volunteering.md) page.
 
 ### Moderators
 

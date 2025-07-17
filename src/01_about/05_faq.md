@@ -23,7 +23,7 @@ Join our [Discord server](https://silicon.melbourne/) and introduce yourself! We
 
 ## Can I contribute to the community?
  
-Absolutely! We're always looking for volunteers to help with moderation, community advocacy, and organising events. Check out our [Volunteering](../04_contributing/03_volunteering.md) page to see current opportunities.
+Absolutely! We're always looking for volunteers to help with moderation, community advocacy, and organising events. Check out our [Volunteering](../03_contributing/03_volunteering.md) page to see current opportunities.
 
 ## Is there a cost to join?
 
